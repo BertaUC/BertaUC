@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6a478e3a-1b1b-4689-8a23-50e76dcbf3dd)
 
 
-## Hi there 👋Berta Quinto Taipe, estudiante de ING. de sistemas 
+## Hola, 👋 soy Berta 
 ## 👩‍💻Sobre mí
 
 👩‍🎓 Estudiante de Ingeniería de Sistemas
