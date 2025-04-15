@@ -37,11 +37,11 @@
 🧰 Git y GitHub
 
 ## 📫 Contacto
-📧 bertaquinto.taipe@gmail.com
+📧 quintotaipeb@gmail.com
 
-💼 LinkedIn (puedes poner tu link si tienes)
+💼 LinkedIn www.linkedin.com/in/berta-quinto-taipe-051b7b253
 
-🌍 Portafolio (opcional si tienes uno)
+🌍 Portafolio. https://github.com/BertaUC/BertaUC/edit/main/README.md
 
 ## 🌟 Extras
 ✨ Siempre con ganas de aprender
