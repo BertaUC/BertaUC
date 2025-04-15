@@ -1,26 +1,56 @@
 ![image](https://github.com/user-attachments/assets/6a478e3a-1b1b-4689-8a23-50e76dcbf3dd)
 
 
-## Hi there 👋BERTA 
+## Hi there 👋Berta Quinto Taipe, estudiante de ING. de sistemas 
+## 👩‍💻Sobre mí
 
-## Mi presentacion: 
+👩‍🎓 Estudiante de Ingeniería de Sistemas
 
-👩‍💻 Hola, soy Berta Quinto Taipe, estudiante de Ingeniería de Sistemas.
+💻 Apasionada por la tecnología y la programación
 
-## Mi pasion:
+🚀 Siempre en busca de nuevos aprendizajes
 
-🎓 Apasionada por la tecnología, la programación y la innovación digital.
+🎯 Motivada por resolver problemas reales con software
 
-## Me interesa:
-🔧  Aprender el desarrollo de software, desarrollar proyectos que aporten soluciones reales, la tecnología, la innovación y cómo usar la programación para resolver problemas reales.
+## 💡 Intereses
+🌐 Desarrollo web
 
-🚀 En constante aprendizaje y con muchas ganas de seguir creciendo en el mundo tecnológico.
+🧠 Inteligencia artificial
 
-## Dato curioso:
-⚡  Me encanta aprender cosas nuevas, desde lenguajes de programación hasta datos curiosos del universo 🌌
+🛡️ Ciberseguridad
 
-## Contacto:
-📫 quintotaipeb@gmail.com
+📊 Ciencia de datos
+
+🧪 Automatización
+
+🎨 Diseño de interfaces
+
+⚙️ Algoritmos y estructuras de datos
+
+## 📚 Actualmente aprendiendo
+🌱 HTML, CSS, JavaScript
+
+🐍 Python
+
+🗃️ Bases de datos (MySQL, PostgreSQL)
+
+🧰 Git y GitHub
+
+## 📫 Contacto
+📧 bertaquinto.taipe@gmail.com
+
+💼 LinkedIn (puedes poner tu link si tienes)
+
+🌍 Portafolio (opcional si tienes uno)
+
+## 🌟 Extras
+✨ Siempre con ganas de aprender
+
+📖 Fan de los libros de tecnología
+
+🎵 Escucho música mientras programo
+
+🤝 Abierta a colaborar en proyectos
 
 
 <!--
