@@ -1,23 +1,27 @@
 ![image](https://github.com/user-attachments/assets/6a478e3a-1b1b-4689-8a23-50e76dcbf3dd)
 
 
-## Hi there 👋
-👩‍💻 Hi, I'm Berta Quinto Taipe, a Systems Engineering student.
+## Hi there 👋BERTA 
 
+## MI PRESENTACION 
 
-🎓 Passionate about technology, programming, and digital innovation.
+👩‍💻 Hola, soy Berta Quinto Taipe, estudiante de Ingeniería de Sistemas.
 
+## ME APASIONA 
 
-🔧 I'm interested in learning and developing projects that provide real solutions.
+🎓 Apasionada por la tecnología, la programación y la innovación digital.
 
+## ME INTERESA
+🔧  Aprender el desarrollo de software, desarrollar proyectos que aporten soluciones reales, la tecnología, la innovación y cómo usar la programación para resolver problemas reales.
 
-🚀 I'm constantly learning and eager to continue growing in the technological world.
+🚀 En constante aprendizaje y con muchas ganas de seguir creciendo en el mundo tecnológico.
 
+## DATOS CURIOSO
+⚡  Me encanta aprender cosas nuevas, desde lenguajes de programación hasta datos curiosos del universo 🌌
 
-📫 How to contact me: bertaquinto.taipe@gmail.com
+## CONTACTAME
+📫 quintotaipeb@gmail.com
 
-
-⚡ Fun fact: I love learning new things, from programming languages ​​to interesting facts about the universe 🌌
 
 <!--
 **BertaUC/BertaUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
