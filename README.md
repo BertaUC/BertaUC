@@ -3,10 +3,20 @@
 
 ## Hi there 👋
 👩‍💻 Hi, I'm Berta Quinto Taipe, a Systems Engineering student.
+
+
 🎓 Passionate about technology, programming, and digital innovation.
+
+
 🔧 I'm interested in learning and developing projects that provide real solutions.
+
+
 🚀 I'm constantly learning and eager to continue growing in the technological world.
+
+
 📫 How to contact me: bertaquinto.taipe@gmail.com
+
+
 ⚡ Fun fact: I love learning new things, from programming languages ​​to interesting facts about the universe 🌌
 
 <!--
