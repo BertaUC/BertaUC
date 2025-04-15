@@ -1,5 +1,14 @@
+![image](https://github.com/user-attachments/assets/6a478e3a-1b1b-4689-8a23-50e76dcbf3dd)
+
+
 ## Hi there 👋
-my name is Berta, i'm from Perú
+👩‍💻 Hi, I'm Berta Quinto Taipe, a Systems Engineering student.
+🎓 Passionate about technology, programming, and digital innovation.
+🔧 I'm interested in learning and developing projects that provide real solutions.
+🚀 I'm constantly learning and eager to continue growing in the technological world.
+📫 How to contact me: bertaquinto.taipe@gmail.com
+⚡ Fun fact: I love learning new things, from programming languages ​​to interesting facts about the universe 🌌
+
 <!--
 **BertaUC/BertaUC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
