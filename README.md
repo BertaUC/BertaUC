@@ -3,23 +3,23 @@
 
 ## Hi there 👋BERTA 
 
-## MI PRESENTACION 
+## Mi presentacion: 
 
 👩‍💻 Hola, soy Berta Quinto Taipe, estudiante de Ingeniería de Sistemas.
 
-## ME APASIONA 
+## Mi pasion:
 
 🎓 Apasionada por la tecnología, la programación y la innovación digital.
 
-## ME INTERESA
+## Me interesa:
 🔧  Aprender el desarrollo de software, desarrollar proyectos que aporten soluciones reales, la tecnología, la innovación y cómo usar la programación para resolver problemas reales.
 
 🚀 En constante aprendizaje y con muchas ganas de seguir creciendo en el mundo tecnológico.
 
-## DATOS CURIOSO
+## Dato curioso:
 ⚡  Me encanta aprender cosas nuevas, desde lenguajes de programación hasta datos curiosos del universo 🌌
 
-## CONTACTAME
+## Contacto:
 📫 quintotaipeb@gmail.com
 
 
